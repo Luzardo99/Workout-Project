@@ -7,10 +7,11 @@ Potential Users: Anybody trying to improve their health and physique by doing we
 
 
 Functionalities:
-   -Create Workout
-        The user chooses a muscle to workout and will be given a set of exercises to use that focus on that specific muscle           group.
-   
-   -Track Progress
-        The user has the ability to input their former progress from their workouts and the program will be able to display           the past weight data so the user can easily see their progress.
+
+-Create Workout
+The user chooses a muscle to workout and will be given a set of exercises to use that focus on that specific muscle           group.
+ 
+-Track Progress
+The user has the ability to input their former progress from their workouts and the program will be able to display           the past weight data so the user can easily see their progress.
         
         

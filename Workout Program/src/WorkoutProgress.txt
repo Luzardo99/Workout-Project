@@ -1,0 +1,39 @@
+bicepcurls	40
+
+preachercurls	30
+
+tricepcurls	0
+
+skullcrushers	0
+
+latpull-down	0
+
+dumbbellrows	0
+
+pull-ups	0
+
+chestsupportedrows	0
+
+benchpress	0
+
+cablecrossover	0
+
+inclinedumbbellpress	0
+
+dips	0
+
+squat	40
+
+legcurl	0
+
+legextensions	0
+
+seatedcalfraise	0
+
+seateddumbbellpress	0
+
+dumbbellfrontraise	0
+
+dumbbelllateralraise	0
+
+standingoverheadpress	0
